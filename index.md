@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="zh-cn">
-<img src="图片.jpg"/><br/>
+
 <head>
 	<meta charset="utf-8">
 	<title>HTML练习</title>
+<img src="图片.jpg"/><br/>
 </head>
 <body bgcolor="#faebd7">
 <h1 align="center">
